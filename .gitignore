@@ -1,0 +1,10 @@
+# Ignore all Jupyter notebooks
+*.ipynb
+
+# Allow only these notebooks
+!dermatology.ipynb
+!Random_Forest.ipynb
+!feature analysis.ipynb
+
+# Ignore checkpoints
+.ipynb_checkpoints/
